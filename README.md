@@ -37,7 +37,7 @@ https://www.cnblogs.com/chen1880/p/11243775.html
 11.智能快递柜(对接流程)
 https://www.cnblogs.com/chen1880/p/11262357.html
 
-QQ： 505645074
+整套智能快递柜源码->联系QQ： 505645074
 
 
 什么是智能快递柜
