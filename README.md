@@ -2,51 +2,43 @@
 智能快递柜，是一种联网的储物系统，该产品是由储物终端与平台管理系统组成，具备智能存件、智能取件、远程监控、信息管理、信息发布等功能，将快递公司、收件方、管理方等相关各方无缝对接，实现集中存取，指定地点存取，24小时存取，信息发布等功能，存取全程监控有效防止纠纷，快件信息得到保护，存取快件更安全，便捷。
 
 
-项目-智能快递柜(开篇)
+最新博客地址（2019-07-29）
 
-https://blog.csdn.net/arno1988/article/details/82318258
+1.智能快递柜(开篇)
+https://www.cnblogs.com/chen1880/p/11243276.html
 
-项目-智能快递柜(终端篇)
+2.智能快递柜(终端篇)
+https://www.cnblogs.com/chen1880/p/11243313.html
 
-https://blog.csdn.net/arno1988/article/details/84983815
+3.智能快递柜(通信篇-HTTP)
+https://www.cnblogs.com/chen1880/p/11243324.html
 
-项目-智能快递柜(通信篇-HTTP)
+4.智能快递柜(通信篇-SOCKET)
+https://www.cnblogs.com/chen1880/p/11243328.html
 
-https://blog.csdn.net/arno1988/article/details/84984896
+5.智能快递柜(通信篇-Server程序)
+https://www.cnblogs.com/chen1880/p/11243332.html
 
-项目-智能快递柜(通信篇-SOCKET)
+6.智能快递柜(平台篇)
+https://www.cnblogs.com/chen1880/p/11243625.html
 
-https://blog.csdn.net/arno1988/article/details/84999363
+7.智能快递柜(APP及微信公众号)
+https://www.cnblogs.com/chen1880/p/11243642.html
 
-项目-智能快递柜(通信篇-Server程序)
+8.智能快递柜SDK(联网型锁板)
+https://www.cnblogs.com/chen1880/p/11243761.html
 
-https://blog.csdn.net/arno1988/article/details/85092363
+9.智能快递柜SDK(串口型锁板)
+https://www.cnblogs.com/chen1880/p/11243765.html
 
-项目-智能快递柜(平台篇)
+10.智能快递柜(源码下载)
+https://www.cnblogs.com/chen1880/p/11243775.html
 
-https://blog.csdn.net/arno1988/article/details/85285894
-
-项目-智能快递柜(APP及微信公众号)
-
-https://blog.csdn.net/arno1988/article/details/85781586
+11.智能快递柜(对接流程)
+https://www.cnblogs.com/chen1880/p/11262357.html
 
 QQ： 505645074
 
-下载地址(CODE):
-
-https://pan.baidu.com/s/1oqHCOiQ9QcjjeqGfzVxRqg
-
-平台网址：
-
-http://117.25.162.154:9951/
-
-终端运行包：
-
-https://pan.baidu.com/s/1m8XAmN91QLEyVrpYW6-9Rg
-
-完整运行包：
-
-https://pan.baidu.com/s/1dTh8StUplBW-ca9yWfCJ3g
 
 什么是智能快递柜
 
